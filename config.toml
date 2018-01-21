@@ -1,0 +1,74 @@
+baseurl       = "https://sketch.lenka.blog"
+title         = "sketch.lenka.blog"
+author        = "Елена Граховац"
+canonifyurls  = true
+languagecode  = "ru"
+theme = "hucore"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+contentdir    = "content"
+layoutdir     = "layouts"
+publishdir    = "docs"
+
+buildDrafts = false
+
+disqusShortname = "sketch-lenka-blog"
+googleAnalytics = "UA-92618362-3"
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  sitename = "sketch.lenka.blog"
+  description   = "Живу в Берлине. В редкое свободное время учусь рисовать."
+  dateform = "02.01.2006"
+  keywords = []
+  sharingicons = false
+  displayauthor = false
+
+[[params.social]]
+url = "https://t.me/lensketch"
+fa_icon = "fa-telegram"
+title = "Подписаться на обновления"
+
+[[params.social]]
+url = "https://instagram.com/sketch.lenka.blog"
+fa_icon = "fa-vcard"
+title = "Инстаграм"
+
+#[[params.social]]
+#url = "https://elena.grahovac.me"
+#fa_icon = "fa-vcard"
+#title = "Визитка"
+
+#[[params.social]]
+#url = "https://github.com/rumyantseva"
+#fa_icon = "fa-github"
+#title = "Гитхаб"
+
+#[[params.social]]
+#url = "https://twitter.com/webdeva"
+#fa_icon = "fa-twitter"
+#title = "Твиттер"
+
+#[[params.social]]
+#url = "..."
+#fa_icon = "fa-telegram"
+#title = "Подписаться в Телеграме"
+
+#[[params.social]]
+#url = "/index.xml"
+#fa_icon = "fa-rss"
+#title = "Подписаться по RSS"
+
+[[menu.main]]
+    name = "Об авторе"
+    url  = "/about"
+    weight = 100
+
+#[[menu.main]]
+#    name = "Твиттер"
+#    url  = "https://twitter.com/webdeva"
+#    weight = 200

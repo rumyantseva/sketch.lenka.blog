@@ -1,0 +1,18 @@
+{{ partial "header" . }} {{ partial "nav" . }}
+<section class="section">
+  <div class="container">
+    {{ range sort .Paginator.Pages }}
+    <article>
+      <h3 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}</h3>
+      <h4 class="subtitle is-5">{{ .Date.Format .Site.Params.dateform }}</h4>
+      <div class="content">
+        {{ if .Description }} {{ .Description | safeHTML }}
+        <a class="button is-link" href="{{ .Permalink }}" style="height:28px">
+            {{ if .Params.More }} {{ .Params.More }} {{ else }} Читать полностью  {{ end }}&raquo;
+          </a> {{ else }} {{ .Content }} {{end}}
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ partial "pager" . }} {{ partial "footer" . }}
