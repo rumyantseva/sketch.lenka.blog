@@ -31,11 +31,11 @@ googleAnalytics = "UA-92618362-3"
 [[params.social]]
 url = "https://t.me/lensketch"
 fa_icon = "fa-telegram"
-title = "Подписаться на обновления"
+title = "Подписаться на обновления в Телеграме"
 
 [[params.social]]
 url = "https://instagram.com/sketch.lenka.blog"
-fa_icon = "fa-vcard"
+fa_icon = "fa-instagram"
 title = "Инстаграм"
 
 #[[params.social]]
