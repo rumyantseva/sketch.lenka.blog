@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://sketch.lenka.blog/posts/2019-08-18-alicia-aradilla/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
     <loc>https://sketch.lenka.blog/posts/2018-12-27-van-gogh-new-colors/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
   </url>
@@ -24,13 +29,26 @@
   </url>
 
   <url>
+    <loc>https://sketch.lenka.blog/tags/alicia-aradilla/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+
+  <url>
     <loc>https://sketch.lenka.blog/posts/</loc>
-    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+
+  <url>
+    <loc>https://sketch.lenka.blog/tags/sketching/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
 
   <url>
     <loc>https://sketch.lenka.blog/tags/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
 
@@ -48,13 +66,19 @@
 
   <url>
     <loc>https://sketch.lenka.blog/tags/watercolour/</loc>
-    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+
+  <url>
+    <loc>https://sketch.lenka.blog/tags/white-nights/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
 
   <url>
     <loc>https://sketch.lenka.blog/</loc>
-    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
 
