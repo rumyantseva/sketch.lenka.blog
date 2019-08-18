@@ -26,7 +26,7 @@ tags:
 | ![](http://www.nevskayapalitra.ru/public/pallette400) | Violet 607 | PV 3 | * | Прозрачная | Въедливая | - |
 | ![](http://www.nevskayapalitra.ru/public/pallette834) | Quinacridone Violet Rose 622 | PV 19 | *** | Прозрачная | Въедливая | - |
 | ![](http://www.nevskayapalitra.ru/public/pallette135) | English Red 321 | PR 101 | *** | Укрывистая | Полувъедливая | - |  
-| ![](http://www.nevskayapalitra.ru/public/pallette824) | Venetian Red 357 | PR 102, PR 187 | *** | Полуукрывистая | Полувъедливая | - |  
+| ![](http://www.nevskayapalitra.ru/public/pallette824) | Venetian Red 357 | PR 102, PR 187 | *** | Прозрачная | Полувъедливая | - |  
 | ![](http://www.nevskayapalitra.ru/public/pallette814) | Indian Yellow 228 | PY 150 | *** | Прозрачная | Полувъедливая | - |
 | ![](http://www.nevskayapalitra.ru/public/pallette819) | Indian Gold 244 | PY 150, PR 101 | *** | Прозрачная | Полувъедливая | - |
 | ![](http://www.nevskayapalitra.ru/public/pallette148) | Green 725 | PG 8 | ** | Прозрачная | Въедливая | - |
