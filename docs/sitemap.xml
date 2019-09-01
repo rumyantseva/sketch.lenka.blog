@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://sketch.lenka.blog/posts/2019-09-01-billy-showell-copy/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
     <loc>https://sketch.lenka.blog/posts/2019-08-18-alicia-aradilla/</loc>
     <lastmod>2019-08-18T00:00:00+00:00</lastmod>
   </url>
@@ -35,8 +40,20 @@
   </url>
 
   <url>
+    <loc>https://sketch.lenka.blog/tags/billy-showell/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+
+  <url>
     <loc>https://sketch.lenka.blog/posts/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+
+  <url>
+    <loc>https://sketch.lenka.blog/tags/sennelier/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
 
@@ -66,7 +83,7 @@
 
   <url>
     <loc>https://sketch.lenka.blog/tags/watercolour/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
 
@@ -77,8 +94,14 @@
   </url>
 
   <url>
+    <loc>https://sketch.lenka.blog/tags/winsor--newton/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+
+  <url>
     <loc>https://sketch.lenka.blog/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
 
