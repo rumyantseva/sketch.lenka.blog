@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on sketch.lenka.blog</title>
+    <link>http://localhost:52438/tags/</link>
+    <description>Recent content in Tags on sketch.lenka.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+
+	<atom:link href="http://localhost:52438/tags/index.xml" rel="self" type="application/rss+xml" />
+
+
+    <item>
+      <title>Alicia Aradilla</title>
+      <link>http://localhost:52438/tags/alicia-aradilla/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:52438/tags/alicia-aradilla/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Billy Showell</title>
+      <link>http://localhost:52438/tags/billy-showell/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:52438/tags/billy-showell/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Sennelier</title>
+      <link>http://localhost:52438/tags/sennelier/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:52438/tags/sennelier/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Sketching</title>
+      <link>http://localhost:52438/tags/sketching/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:52438/tags/sketching/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Talens</title>
+      <link>http://localhost:52438/tags/talens/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:52438/tags/talens/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Van Gogh</title>
+      <link>http://localhost:52438/tags/van-gogh/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:52438/tags/van-gogh/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Watercolour</title>
+      <link>http://localhost:52438/tags/watercolour/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:52438/tags/watercolour/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>White Nights</title>
+      <link>http://localhost:52438/tags/white-nights/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:52438/tags/white-nights/</guid>
+      <description></description>
+    </item>
+
+    <item>
+      <title>Winsor  Newton</title>
+      <link>http://localhost:52438/tags/winsor--newton/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:52438/tags/winsor--newton/</guid>
+      <description></description>
+    </item>
+
+  </channel>
+</rss>

@@ -14,7 +14,7 @@ tags:
 Продолжаю раскопки палитр интересных мне художников. Сегодня очередь Билли Шоуэлл, о которой я узнала благодаря [её книгам](https://www.mann-ivanov-ferber.ru/authors/billi-shouell/) по ботанической живописи.
 
 Интересно, что в книге «Портреты фруктов и овощей» используются краски Winsor & Newton,
-а в «Ботанических портретах» — Sennelier. Кстати, Sennelier даже выпустили [набор акварели](https://www.jacksonsart.com/billy-showell-sennelier-watercolour-paint-set-12-10ml-tubes-in-case) соместно с Билли.
+а в «Ботанических портретах» — Sennelier. Кстати, Sennelier даже выпустили [набор акварели](https://www.jacksonsart.com/billy-showell-sennelier-watercolour-paint-set-12-10ml-tubes-in-case) совместно с Билли. В  «Портретах цветов от А до Я» бренд красок не упоминается, но судя по названиям цветов, там испоьзуются W&N.
 
 На сайте художницы есть [таблица соответствия Sennelier и Winsor & Newton](https://www.billyshowell.com/images/downloads/Billy_Watercolour_Paint_Conversion_Chart.pdf). Я чуть-чуть доработала эту таблицу, добавив обозначения из книги «Ботанические портреты» (ЖТ, ЛТ и т. д.).
 
