@@ -1,4 +1,4 @@
-baseurl       = "https://sketch.lenka.blog"
+baseURL       = "https://sketch.lenka.blog/"
 title         = "sketch.lenka.blog"
 author        = "Елена Граховац"
 canonifyurls  = true
