@@ -3,7 +3,9 @@ title         = "sketch.lenka.blog"
 author        = "Елена Граховац"
 canonifyurls  = true
 languagecode  = "ru"
-theme = "hucore"
+theme = "ezhil"
+
+ignoreErrors = ["error-remote-getjson"]
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true

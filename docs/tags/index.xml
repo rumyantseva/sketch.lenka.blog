@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on sketch.lenka.blog</title>
@@ -6,91 +6,96 @@
     <description>Recent content in Tags on sketch.lenka.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
-
-	<atom:link href="https://sketch.lenka.blog/tags/index.xml" rel="self" type="application/rss+xml" />
-
-
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://sketch.lenka.blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Alicia Aradilla</title>
-      <link>https://sketch.lenka.blog/tags/alicia-aradilla/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-
-      <guid>https://sketch.lenka.blog/tags/alicia-aradilla/</guid>
+      <title>terry harrison</title>
+      <link>https://sketch.lenka.blog/tags/terry-harrison/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sketch.lenka.blog/tags/terry-harrison/</guid>
       <description></description>
     </item>
-
+    
     <item>
-      <title>Billy Showell</title>
-      <link>https://sketch.lenka.blog/tags/billy-showell/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-
-      <guid>https://sketch.lenka.blog/tags/billy-showell/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Sennelier</title>
-      <link>https://sketch.lenka.blog/tags/sennelier/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-
-      <guid>https://sketch.lenka.blog/tags/sennelier/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Sketching</title>
-      <link>https://sketch.lenka.blog/tags/sketching/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-
-      <guid>https://sketch.lenka.blog/tags/sketching/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Talens</title>
-      <link>https://sketch.lenka.blog/tags/talens/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-
-      <guid>https://sketch.lenka.blog/tags/talens/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Van Gogh</title>
-      <link>https://sketch.lenka.blog/tags/van-gogh/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-
-      <guid>https://sketch.lenka.blog/tags/van-gogh/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Watercolour</title>
+      <title>watercolour</title>
       <link>https://sketch.lenka.blog/tags/watercolour/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://sketch.lenka.blog/tags/watercolour/</guid>
       <description></description>
     </item>
-
+    
     <item>
-      <title>White Nights</title>
+      <title>billy showell</title>
+      <link>https://sketch.lenka.blog/tags/billy-showell/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sketch.lenka.blog/tags/billy-showell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sennelier</title>
+      <link>https://sketch.lenka.blog/tags/sennelier/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sketch.lenka.blog/tags/sennelier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>winsor &amp; newton</title>
+      <link>https://sketch.lenka.blog/tags/winsor-newton/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sketch.lenka.blog/tags/winsor-newton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alicia aradilla</title>
+      <link>https://sketch.lenka.blog/tags/alicia-aradilla/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sketch.lenka.blog/tags/alicia-aradilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sketching</title>
+      <link>https://sketch.lenka.blog/tags/sketching/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sketch.lenka.blog/tags/sketching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>white nights</title>
       <link>https://sketch.lenka.blog/tags/white-nights/</link>
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-
+      
       <guid>https://sketch.lenka.blog/tags/white-nights/</guid>
       <description></description>
     </item>
-
+    
     <item>
-      <title>Winsor  Newton</title>
-      <link>https://sketch.lenka.blog/tags/winsor--newton/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-
-      <guid>https://sketch.lenka.blog/tags/winsor--newton/</guid>
+      <title>talens</title>
+      <link>https://sketch.lenka.blog/tags/talens/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sketch.lenka.blog/tags/talens/</guid>
       <description></description>
     </item>
-
+    
+    <item>
+      <title>van gogh</title>
+      <link>https://sketch.lenka.blog/tags/van-gogh/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sketch.lenka.blog/tags/van-gogh/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

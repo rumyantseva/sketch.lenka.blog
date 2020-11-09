@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on sketch.lenka.blog</title>
@@ -6,22 +6,18 @@
     <description>Recent content in Abouts on sketch.lenka.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 20 Jan 2018 00:00:00 +0000</lastBuildDate>
-
-	<atom:link href="https://sketch.lenka.blog/about/index.xml" rel="self" type="application/rss+xml" />
-
-
+    <lastBuildDate>Sat, 20 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://sketch.lenka.blog/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Об этом блоге</title>
       <link>https://sketch.lenka.blog/about/about/</link>
       <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
-
+      
       <guid>https://sketch.lenka.blog/about/about/</guid>
       <description>Привет!
 Меня зовут Лена, я живу в Берлине и почти всё своё рабочее и личное время занимаюсь разработкой ПО — программированием, архитектурой, инфраструктурой, процессами и всем, что вокруг.
 А еще я помаленьку мечтаю научиться рисовать&amp;hellip; Так, чтобы, например, взять и свобдно набросать любое понравившееся здание, или изобразить какой-нибудь интересный архитектурный элемент.
 В этом блоге я планирую сохранять ссылки на понравившееся мне ресурсы по рисованию, живописи и истории искусств, писать отзывы о всевозможных книгах и курсах, делиться своими идеями и прогрессом.</description>
     </item>
-
+    
   </channel>
 </rss>

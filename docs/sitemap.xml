@@ -1,108 +1,105 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
+  
   <url>
-    <loc>https://sketch.lenka.blog/posts/2019-09-01-billy-showell-copy/</loc>
+    <loc>https://sketch.lenka.blog/posts/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketch.lenka.blog/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketch.lenka.blog/tags/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketch.lenka.blog/tags/terry-harrison/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketch.lenka.blog/tags/watercolour/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketch.lenka.blog/posts/2020-11-09-terry-harrison/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketch.lenka.blog/tags/billy-showell/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
-
+  
+  <url>
+    <loc>https://sketch.lenka.blog/tags/sennelier/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketch.lenka.blog/tags/winsor-newton/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketch.lenka.blog/posts/2019-09-01-billy-showell/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketch.lenka.blog/tags/alicia-aradilla/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketch.lenka.blog/tags/sketching/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketch.lenka.blog/tags/white-nights/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
   <url>
     <loc>https://sketch.lenka.blog/posts/2019-08-18-alicia-aradilla/</loc>
     <lastmod>2019-08-18T00:00:00+00:00</lastmod>
   </url>
-
+  
+  <url>
+    <loc>https://sketch.lenka.blog/tags/talens/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketch.lenka.blog/tags/van-gogh/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
   <url>
     <loc>https://sketch.lenka.blog/posts/2018-12-27-van-gogh-new-colors/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
   </url>
-
+  
   <url>
     <loc>https://sketch.lenka.blog/posts/2018-01-21-van-gogh/</loc>
     <lastmod>2018-01-21T00:00:00+00:00</lastmod>
   </url>
-
+  
+  <url>
+    <loc>https://sketch.lenka.blog/about/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
   <url>
     <loc>https://sketch.lenka.blog/about/about/</loc>
     <lastmod>2018-01-20T00:00:00+00:00</lastmod>
   </url>
-
-  <url>
-    <loc>https://sketch.lenka.blog/about/</loc>
-    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://sketch.lenka.blog/tags/alicia-aradilla/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://sketch.lenka.blog/tags/billy-showell/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://sketch.lenka.blog/posts/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://sketch.lenka.blog/tags/sennelier/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://sketch.lenka.blog/tags/sketching/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://sketch.lenka.blog/tags/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://sketch.lenka.blog/tags/talens/</loc>
-    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://sketch.lenka.blog/tags/van-gogh/</loc>
-    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://sketch.lenka.blog/tags/watercolour/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://sketch.lenka.blog/tags/white-nights/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://sketch.lenka.blog/tags/winsor--newton/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://sketch.lenka.blog/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-
+  
 </urlset>

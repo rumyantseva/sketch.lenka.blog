@@ -6,11 +6,8 @@
       </div>
       <div class="nav-right">
         <nav class="nav-item level is-mobile">
-          <a class="level-item underlined" href="{{ .Site.BaseURL }}/about/about">Об авторе</a>
-          <span class="level-item">|</span>
-          <span class="level-item">Ещё:</span>
           {{ range .Site.Params.social }}
-          <a class="level-item" href="{{ .url }}" title ="{{ .title }}" target="_blank">
+          <a class="level-item" href="{{ .url }}" target="_blank">
             <span class="icon">
               <i class="fa {{ .fa_icon }}"></i>
             </span>
@@ -19,8 +16,5 @@
         </nav>
       </div>
     </nav>
-  </div>
-  <div class="container">
-    <h2>{{ .Site.Params.Description }}</h2>
   </div>
 </section>
