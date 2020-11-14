@@ -6,3 +6,7 @@ img[src$='#center'] {
 .underlined {
     text-decoration: underline;
 }
+
+img[src$='#aradilla'] {
+    min-width: 200px;
+}

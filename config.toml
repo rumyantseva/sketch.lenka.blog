@@ -30,6 +30,7 @@ googleAnalytics = "UA-92618362-3"
   keywords = []
   sharingicons = false
   displayauthor = false
+  customCSS = "css/custom.css"
 
 [[params.social]]
 url = "https://t.me/lensketch"
