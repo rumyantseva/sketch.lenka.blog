@@ -25,6 +25,7 @@ googleAnalytics = "UA-92618362-3"
 [params]
   sitename = "sketch.lenka.blog"
   description   = "Живу в Берлине. В редкое свободное время учусь рисовать."
+  subtitle = "Живу в Берлине. Иногда рисую"
   dateform = "02.01.2006"
   keywords = []
   sharingicons = false
@@ -32,13 +33,15 @@ googleAnalytics = "UA-92618362-3"
 
 [[params.social]]
 url = "https://t.me/lensketch"
-fa_icon = "fa-telegram"
+icon = "send"
 title = "Подписаться на обновления в Телеграме"
+name = "Телеграм"
 
 [[params.social]]
 url = "https://instagram.com/sketch.lenka.blog"
-fa_icon = "fa-instagram"
+icon = "instagram"
 title = "Инстаграм"
+name = "Инстаграм"
 
 #[[params.social]]
 #url = "https://elena.grahovac.me"
