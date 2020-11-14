@@ -70,7 +70,7 @@ name = "Инстаграм"
 
 [[menu.main]]
     name = "Об авторе"
-    url  = "/about"
+    url  = "/about/about"
     weight = 100
 
 #[[menu.main]]
