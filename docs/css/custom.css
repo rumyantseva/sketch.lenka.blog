@@ -7,6 +7,6 @@ img[src$='#center'] {
     text-decoration: underline;
 }
 
-img[src$='#aradilla'] {
+img[src$='#min200'] {
     min-width: 200px;
 }
