@@ -9,4 +9,5 @@ img[src$='#center'] {
 
 img[src$='#min200'] {
     min-width: 200px;
+    max-width: 200px;
 }
