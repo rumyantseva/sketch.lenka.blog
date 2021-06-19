@@ -47,7 +47,7 @@ tags:
 
 ![](https://www.terryharrisonart.com/product-images/Normal/05292c24-5c5f-4ef8-96f4-084cd32cd04d-1.jpg)
 
-- [Полуночный зеленый](https://www.terryharrisonart.com/Paints/ARTISTS-WATERCOLOUR-Midnight-Green.aspx) - зеленый PG8, оксид железа, голубой фтало, угольный черный PBk7. Мне кажется, такого типа цвета Елена Базанова любит замешивать, выглядят роскошно :)
+- [Полуночный зеленый](https://www.terryharrisonart.com/Paints/ARTISTS-WATERCOLOUR-Midnight-Green.aspx) - зеленый PG8, оксид железа, голубой фтало, угольный черный PBk7. Мне кажется, такого типа цвета Елена Базанова любит замешивать, и у неё это всегда выглядят роскошно :)
 - [Природный оливковый](https://www.terryharrisonart.com/Paints/ARTISTS-WATERCOLOUR-Country-Olive.aspx) - зеленый PG8, оксид железа и желтый моноазо
 - [Солнечный зеленый](https://www.terryharrisonart.com/Paints/ARTISTS-WATERCOLOUR-Sunlit-Green.aspx) - голубой фтало, и снова оксид железа и желтый моноазо
 

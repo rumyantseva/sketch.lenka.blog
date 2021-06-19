@@ -19,6 +19,9 @@ buildDrafts = false
 disqusShortname = "sketch-lenka-blog"
 googleAnalytics = "UA-92618362-3"
 
+[services]
+instagram = {accessToken = "777d0db604e93b0276747205923b48c0"}
+
 [taxonomies]
   tag = "tags"
 
